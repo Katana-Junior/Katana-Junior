@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Katana-Junior
+# Hi there 👋 I'm  John Katana
 
 Welcome to my GitHub profile! I'm a passionate developer dedicated to building quality software and contributing to open-source projects.
 
