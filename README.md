@@ -11,7 +11,8 @@ Welcome to my GitHub profile! I'm a passionate developer dedicated to building q
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-<a href="https://www.flaticon.com/free-icons/typescript" title="typescript icons">Typescript icons created by Magnific - Flaticon</a>
+<img width="512" height="512" alt="typescript" src="https://github.com/user-attachments/assets/51fa6698-eb82-4b3a-a0df-ff035ac1459f" />
+
 
 **Frontend:**
 
