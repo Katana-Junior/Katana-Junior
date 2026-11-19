@@ -3,11 +3,11 @@
 ### 💻 Full-Stack Developer | Software Developer | Tech Enthusiast
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Building+Useful+Applications;Always+Learning" alt="Typing animation: Full-Stack Developer, Building Useful Applications, Always Learning" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Building+Useful+Applications;Always+Learning" alt="Typing introduction" />
 </p>
 
 <p align="center">
-  Welcome to my GitHub profile! I'm a passionate Full-Stack Developer who enjoys building modern, responsive, and user-friendly applications. I love solving problems through technology, exploring new tools, and continuously learning.
+  Welcome to my GitHub profile! I'm a passionate Full-Stack Developer who enjoys building modern, responsive, and user-friendly applications. I love solving problems through technology and exploring new tools and ideas.
 </p>
 
 <p align="center">
@@ -76,7 +76,7 @@ Here are some of the projects I'm building and exploring:
 
 A web application project focused on building practical digital solutions.
 
-- **Technologies:** Javascript, C#, PostgreSQL and modern web technologies.
+- **Technologies:** JavaScript, C#, PostgreSQL and modern web technologies.
 - **Focus:** Full-stack development and database integration.
 - **Repository:** Coming soon.
 
@@ -91,7 +91,7 @@ Explore my GitHub repositories to discover more projects, experiments, and contr
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Katana-Junior&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="John Katana's GitHub statistics" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Katana-Junior&show_icons=true&theme=tokyonight&hide_border=true" alt="John Katana's GitHub statistics" />
 </p>
 
 ### 🔥 Contribution Streak
