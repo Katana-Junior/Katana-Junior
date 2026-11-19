@@ -76,7 +76,7 @@ Here are some of the projects I'm building and exploring:
 
 A web application project focused on building practical digital solutions.
 
-- **Technologies:** TypeScript, PostgreSQL and modern web technologies.
+- **Technologies:** Javascript,C#, PostgreSQL and modern web technologies.
 - **Focus:** Full-stack development and database integration.
 - **Repository:** Coming soon.
 
@@ -84,26 +84,26 @@ A web application project focused on building practical digital solutions.
 
 Explore my GitHub repositories to discover more projects, experiments, and contributions.
 
-👉 [View All My Repositories](https://github.com/JohnKatana?tab=repositories)
+👉 [View All My Repositories](https://github.com/Katana-Junior?tab=repositories)
 
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=JohnKatana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="John Katana's GitHub statistics" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Katana-Junior&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="John Katana's GitHub statistics" />
 </p>
 
 ### 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=JohnKatana&theme=tokyonight&hide_border=true" alt="John Katana's GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=Katana-Junior&theme=tokyonight&hide_border=true" alt="John Katana's GitHub contribution streak" />
 </p>
 
 ### 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JohnKatana&theme=tokyo-night&hide_border=true" alt="John Katana's GitHub contribution activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Katana-Junior&theme=tokyo-night&hide_border=true" alt="John Katana's GitHub contribution activity graph" />
 </p>
 
 ---
@@ -113,7 +113,7 @@ Explore my GitHub repositories to discover more projects, experiments, and contr
 I'm always interested in connecting with developers, learning from others, and collaborating on exciting projects.
 
 <p align="center">
-  <a href="https://github.com/JohnKatana">
+  <a href="https://github.com/Katana-Junior">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="John Katana on GitHub" />
   </a>
   <a href="mailto:johnkatana624@gmail.com">
