@@ -76,7 +76,7 @@ Here are some of the projects I'm building and exploring:
 
 A web application project focused on building practical digital solutions.
 
-- **Technologies:** Javascript,C#, PostgreSQL and modern web technologies.
+- **Technologies:** Javascript, C#, PostgreSQL and modern web technologies.
 - **Focus:** Full-stack development and database integration.
 - **Repository:** Coming soon.
 
@@ -135,5 +135,5 @@ I enjoy turning ideas into working applications, exploring emerging technologies
 <p align="center"><b>💡 “Code. Learn. Build. Improve. Repeat.”</b></p>
 <p align="center">Thanks for visiting my profile! ⭐</p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JohnKatana&label=Profile%20Views&color=36BCF7&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Katana-Junior&label=Profile%20Views&color=36BCF7&style=flat" alt="Profile views" />
 </p>
