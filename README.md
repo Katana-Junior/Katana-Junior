@@ -2,22 +2,22 @@
 
 ### 💻 Full-Stack Developer | Software Developer | Tech Enthusiast
 
-\<p align="center">
-&#x20; \<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Building+Modern+Web+Applications;JavaScript+%7C+TypeScript+%7C+React;Always+Learning+and+Building](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=23\&duration=3000\&pause=1000\&color=36BCF7\&center=true\&vCenter=true\&width=600\&lines=Full-Stack+Developer;Building+Modern+Web+Applications;JavaScript+%7C+TypeScript+%7C+React;Always+Learning+and+Building)" alt="Typing SVG" />
-\</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Building+Useful+Applications;Always+Learning" alt="Typing animation: Full-Stack Developer, Building Useful Applications, Always Learning" />
+</p>
 
-\<p align="center">
-&#x20; Welcome to my GitHub profile! I'm a passionate Full-Stack Developer who enjoys building modern, responsive, and user-friendly applications. I love solving problems through technology, exploring new tools, and contributing to meaningful software projects.
-\</p>
+<p align="center">
+  Welcome to my GitHub profile! I'm a passionate Full-Stack Developer who enjoys building modern, responsive, and user-friendly applications. I love solving problems through technology, exploring new tools, and continuously learning.
+</p>
 
-\<p align="center">
-&#x20; \<a href="[https://portfolio-psi-one-oqhnv4qo15.vercel.app](https://portfolio-psi-one-oqhnv4qo15.vercel.app)">
-&#x20;   \<img src="[https://img.shields.io/badge/Portfolio-Visit%20Website-36BCF7?style=for-the-badge&logo=vercel&logoColor=white](https://img.shields.io/badge/Portfolio-Visit%20Website-36BCF7?style=for-the-badge\&logo=vercel\&logoColor=white)" />
-&#x20; \</a>
-&#x20; \<a href="mailto\:johnkatana624\@gmail.com">
-&#x20;   \<img src="[https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge\&logo=gmail\&logoColor=white)" />
-&#x20; \</a>
-\</p>
+<p align="center">
+  <a href="https://portfolio-psi-one-oqhnv4qo15.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-36BCF7?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit my portfolio" />
+  </a>
+  <a href="mailto:johnkatana624@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" />
+  </a>
+</p>
 
 ---
 
@@ -36,30 +36,35 @@
 
 ### Programming Languages
 
-\<p>
-&#x20; \<img src="[https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)" />
-&#x20; \<img src="[https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)" />
-&#x20; \<img src="[https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=csharp\&logoColor=white)" />
-\</p>
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C sharp" />
+</p>
 
 ### Frontend Development
 
-\<p>
-&#x20; \<img src="[https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)" />
-&#x20; \<img src="[https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)" />
-&#x20; \<img src="[https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)" />
-\</p>
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+</p>
 
 ### Backend & Databases
 
-\<p>
-&#x20; \<img src="[https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)" />
-&#x20; \<img src="[https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)" />
-\</p>
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</p>
 
 ### Tools & Platforms
 
-\<p>   \<img src="[https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)" /> \</p>
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+</p>
 
 ---
 
@@ -73,7 +78,7 @@ A web application project focused on building practical digital solutions.
 
 - **Technologies:** TypeScript, PostgreSQL and modern web technologies.
 - **Focus:** Full-stack development and database integration.
-- **Repository:** [Coming Soon]
+- **Repository:** Coming soon.
 
 ### 💻 More Projects
 
@@ -85,15 +90,21 @@ Explore my GitHub repositories to discover more projects, experiments, and contr
 
 ## 📊 GitHub Statistics
 
-\<p align="center">   \<img height="180em" src="[https://github-readme-stats.vercel.app/api?username=JohnKatana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true](https://github-readme-stats.vercel.app/api?username=JohnKatana\&show_icons=true\&theme=tokyonight\&hide_border=true\&count_private=true)" alt="John's GitHub Stats" />   \<img height="180em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=JohnKatana&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnKatana\&layout=compact\&theme=tokyonight\&hide_border=true)" alt="Most Used Languages" /> \</p>
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=JohnKatana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="John Katana's GitHub statistics" />
+</p>
 
 ### 🔥 Contribution Streak
 
-\<p align="center">   \<img src="[https://streak-stats.demolab.com?user=JohnKatana&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=JohnKatana\&theme=tokyonight\&hide_border=true)" alt="GitHub Contribution Streak" /> \</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=JohnKatana&theme=tokyonight&hide_border=true" alt="John Katana's GitHub contribution streak" />
+</p>
 
 ### 📈 Contribution Activity
 
-\<p align="center">   \<img src="[https://github-readme-activity-graph.vercel.app/graph?username=JohnKatana&theme=tokyo-night&hide_border=true](https://github-readme-activity-graph.vercel.app/graph?username=JohnKatana\&theme=tokyo-night\&hide_border=true)" alt="Contribution Activity Graph" /> \</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JohnKatana&theme=tokyo-night&hide_border=true" alt="John Katana's GitHub contribution activity graph" />
+</p>
 
 ---
 
@@ -101,7 +112,17 @@ Explore my GitHub repositories to discover more projects, experiments, and contr
 
 I'm always interested in connecting with developers, learning from others, and collaborating on exciting projects.
 
-\<p align="center">   \<a href="[https://github.com/JohnKatana](https://github.com/JohnKatana)">     \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" />   \</a>   \<a href="mailto\:johnkatana624\@gmail.com">     \<img src="[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)" />   \</a>   \<a href="[https://portfolio-psi-one-oqhnv4qo15.vercel.app](https://portfolio-psi-one-oqhnv4qo15.vercel.app)">     \<img src="[https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=vercel\&logoColor=white)" />   \</a> \</p>
+<p align="center">
+  <a href="https://github.com/JohnKatana">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="John Katana on GitHub" />
+  </a>
+  <a href="mailto:johnkatana624@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email John Katana" />
+  </a>
+  <a href="https://portfolio-psi-one-oqhnv4qo15.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-36BCF7?style=for-the-badge&logo=vercel&logoColor=white" alt="John Katana's portfolio" />
+  </a>
+</p>
 
 ---
 
@@ -111,10 +132,8 @@ I enjoy turning ideas into working applications, exploring emerging technologies
 
 ---
 
-\<p align="center">   \<b>💡 "Code. Learn. Build. Improve. Repeat."\</b> \</p>
-
-\<p align="center">   Thanks for visiting my profile! ⭐ \</p>
-
-\<p align="center">   \<img src="[https://komarev.com/ghpvc/?username=JohnKatana&label=Profile%20Views&color=36BCF7&style=flat](https://komarev.com/ghpvc/?username=JohnKatana\&label=Profile%20Views\&color=36BCF7\&style=flat)" alt="Profile Views" /> \</p>
-
-
+<p align="center"><b>💡 “Code. Learn. Build. Improve. Repeat.”</b></p>
+<p align="center">Thanks for visiting my profile! ⭐</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JohnKatana&label=Profile%20Views&color=36BCF7&style=flat" alt="Profile views" />
+</p>
